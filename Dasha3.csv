@@ -1,0 +1,90 @@
+ID,ADDRESS,KOR,ROOT,TAIL,GLOSS,TRANS,ContKOR,RUS,WClass,COMMENT
+1,15b 11,이러모로,i-le,mulwo=psey,INSTR,this way,,,N?,
+2,15b 11,그,ku,,,that,,,DET,
+3,15b 11,력예,lyek-toy,yey,LOC,past dynasties,,,N,歷代
+4,15b 12,종요로온,cwong-wye-lwo-wo,n,PInd?,important,종요롭다,,P,
+5,15b 12,의,uy,lul,ACC,meaning,,,N,義 > 义
+6,15b 12,쳑야,chek-ho,ya,CV,gather?,,,P,摭
+7,15b 13,자편에,cha-phyen,ey,LOC,?,,,N,
+8,15b 13,쓰노라,ssu,nwo=la,DECL1sg?,write,,,P,
+9,21b 1,대개,tay-kay,,,generally,,,ADV,
+10,21b 1,태극이 ,thay-kuk,i,NOM,the Supreme Ultimate,,,N,太極
+11,21b 1,비로소,pi-lwo-swo,,,for the first time,,,ADV,
+12,21b 1,판야,koy-phan-ho,ya,CV,?,,,N,
+13,21b 1,음과,um,kwa,COMI,yīn principle,,,N,陰 > 阴
+14,21b 1,양이,yang,i,NOM,yáng principle,,,N,陽 > 阳
+15,21b 2,비로소,pi-lwo-swo,nun,TOP,for the first time,,,ADV,
+16,21b 2,호임로브터,ho,i=m=lwo=pu=the,?+NMLZ+INSTR+ABL,?,,,N,проверить кружок
+17,21b 3,오이,wo-hoyng,i,NOM,Five Elements,,,N,五行
+18,21b 4,서르,se-lu,,,each other,서로,,ADV,
+19,21b 4,홈애,soyng-ho,wo=m=ay,VOL+NMLZ+LOC,?,,,N,生
+21,21b 5,몬져,mwon-cye,,,first,,,PTCL,
+22,21b 5,리와,li,wa,COMI,"reason, logic; manage?",,,N,理
+23,21b 5,긔운이,kuy-wun,i,,qi energy,,,N,氣 > 气
+24,21b 5,잇디라,is,nun=ti=la,CONC,?,,,P,
+25,21b 5,사과 ,sa-lom,kwa,COMI,person,,,N,
+26,21b 5,만믈의,man-mwul,uy,GEN,ten thousands things,,,N,
+27,21b 6,남이,na,m=i,NMLZ+NOM,"grow, happen",,,P,
+28,21b 6,림림며,lim-lim-ho,mye,COOR,*sound of water drops*,,,?,淋淋하다 (임림하다)
+29,21b 6,총총더니,chwong-chwong-ho,te=ni,CONJ,hastily,,,P,
+30,21b 7,이에,i-ey,,,hence,,,ADV,
+31,21b 7,셩인,syeng-in,,,sage,,,N,聖셩人
+32,21b 7,이읏듬으로,(i-)us-tu,m=u=wlo,NMLZ+NMLZ,the first,으뜸,,N,"возможно, нужно разбить"
+33,21b 7,나샤,na,si=a,HonSUB+CV,happen,,,P,
+34,21b 7,하을 ,ha-nol,ul,ACC,Heaven,,,N,
+35,21b 8,니어,ni,e,,?,,,P,
+36,21b 8,극,kuk-ho,n,PInd,extreme?,,,P,
+37,21b 8,거슬,kes,ul,ACC,thing,,,BN,
+38,21b 8,셰우시니,syey-wu,si=ni,HonSUB+?,set up,,,P,
+39,21b 8,텬황시와,thyen-hwang-si,wa,COMI,Heavenly Sovereigns,,,N,天皇氏
+40,21b 8,디황시와,ti-hwang-si,wa,COMI,Terrestrial Sovereigns,,,N,地皇氏
+41,21b 9,인황시와,in-hwang-si,wa,COMI,Human Sovereigns,,,N,人皇氏
+42,21b 9,유소시와,ywu-swo-si,wa,COMI,Youchao Hao,,,N,有巢氏
+43,21b 9,슈인시,sywu-in-si,,,Suiren,,,N,燧人氏
+44,21b 9,왜,way,,,왜,,,?,
+45,21b 10,이,i,,,this,,,DET,
+46,21b 10,태괴,thay-kwo,i,NOM,ancient times,,,N,
+47,21b 10,되니,twoy,ni,PARA,become,,,P,
+48,21b 10,셔계,sye-kyey,pse,CV,certificate,,,?,書契
+49,21b 10,젼에,cen,ey,LOC,before,,,PTCL,前
+50,21b 10,잇디라,is,nun=ti=la,CONC,?,,,P,
+51,21b 11,가히,ka-ho,i,ADV,"fully, easily",,,ADV,
+52,21b 11,샹고티,syang-kwo,thi,NEG,examine?,,,P,考
+53,21b 11,못,mos,,,cannot,,,P,
+54,21b 11,로다,ho,l=lwo=ta,EMPH,do,,,P,
+55,21b 11,복희시,pwok-huy-shi,,,Fu Hsi,,,N,伏羲氏
+56,21b 11,비로소,pi-lwo-swo,,,for the first time,,,ADV,
+57,21b 12,여,ye-dolp,,,eight,,,NUM,
+58,21b 12,괘,kway,lul,ACC,divinatory diagram,,,N,卦
+59,21b 12,그으며,ku-u,mye,COOR,"send, dispatch? (draw)",파견하다,,P,
+60,22a 1,셔계,sye-kyey,lul,ACC,certificate,,,N,書契
+61,22a 1,글아,moyng-kul,a=pse,CV,make,,,P,
+62,22a 1,노던,nwo-moys,te=n,RETR+PInd,?,,,P,
+63,22a 1,졍,cyeng-so,lul,ACC,?,,,N,
+64,22a 1,시고,toy-ho,si=ko,HonSUB+COOR,?,,,P,
+65,22a 2,신농시,sin-nwong-si,,,Divine Husbandman,,,N,神農氏
+66,22a 2,부와,sto-pwu,wa,COMI,?,,,N,
+67,22a 2,보시,pwo-si,lul,ACC,temple offering?,,,N,
+68,22a 2,글며,moyng-kul,mye,COOR,make?,,,P,
+69,22a 2,의슐과,uy-sywul,kwa,COMI,?,,,P,
+70,22a 3,약을,yak,ul,ACC,medicine,,,N,藥
+71,22a 3,지으시고,ci-u,si=ko,HonSUB+COOR,"build, make",,,P,
+72,22a 3,황뎨시방패와창을,hwang-tyey-si-pang-phyay-wa-chang,ul,ACC,Yellow Emperor + weapons of war,,,N,разбить! 黃帝氏+干戈
+73,22a 4,며,psu,mye,COOR,use,,,P,
+74,22a 4,와,poy,wa,COMI,boat,,,N,
+75,22a 4,수뤼,swu-lwuy,lul,ACC,wagon,수레,,N,
+76,22a 4,글며,moyng-kul,mye,COOR,make,,,P,
+77,22a 4,력과,choyk-lyek,kwa,COMI,calender,,,N,책력
+78,22a 4,산을,san,ul,ACC,???,,,N,
+79,22a 5,글며,moyng-kul,mye,COOR,make,,,P,
+80,22a 5,음률을,um-lywul,ul,ACC,melody,,,N,
+81,22a 5,지으시니,ci-u,si=ni,HonSUB+PARA,"build, make",,,P,
+82,22a 5,이,i,,,this,,,DET,
+83,22a 5,삼황이,sam-hwang,i,NOM,Three Sovereigns,,,N,三皇
+84,22a 6,되니,twoy,ni,PARA,become,,,P,
+85,22a 6,지극,ci-kuk-ho,n,PInd,extreme,,,P,
+86,22a 6,덕의,tek,uy,GEN,virtue,,,N,德
+87,22a 6,셰샹이라,syey-syang-i,la,DECL,world,,,N+COP,
+88,22a 6,욤,hoy-ywo,m,?,?,,,P,
+89,22a 6,업시,ep-s,i,ADV,not to exist,,,P,
+90,22a 7,다니라,tas,o=ni=la,IND?+DECL,,탓 guilt,,P,

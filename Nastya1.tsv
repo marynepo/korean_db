@@ -1,0 +1,110 @@
+Код	ADDRESS	KOR	WClass	ОСНОВА	ХВОСТ	GLOSS	TRANS	RUS	ContKOR	Comment
+1	3a 1	아비와	N	a-pi	wa	COMIT	father			
+2	3a 1	식은	N	co-sik	un	TOP	child			
+3	3a 1	하	N	ha	nol		heaven			
+4	3a 1	셩의	N	syeng	uy	GEN	divine			
+5	3a 1	친이라	N+COP	chin-hon-i	la	DECL	intimacy			
+6	3a 1	나하	P	nah	a	CV	to beget			converb
+7	3a 2	기르고	P	ki-lu	kwo	COOR	to raise			
+8	3a 2	랑야	P	so-lang-ho	ya	CV	to love			
+9	3a 2	치며	P	ko-lo-chi	mye	COOR	to teach			
+10	3a 2	밧드러	P	pas-tul	e	CV	to respect			
+11	3a 3	닛고	P	nis	kwo	COOR	to join, to follow			
+12	3a 3	효도야	P	hyo-two-ho	ya	CV	to serve parents with devotion	чтить		
+13	3a 3	봉양니	P	pwong-yang-ho	no=ni	PRO+PARA	to be close			
+14	3a 3	이런+고로	P	i-re=n kwo-lwo		PInd + LOC	this+reason			
+15	3a 4	올	P	wol-h	on	PInd	to be devoted			
+16	3a 4	방소로	P	pang-swo	lwo-pse	INSTR	moral principle and knowledge	пример		посредством примера справедливости
+17	3a 4	쳐	P	ko-lo-chi	e	CV	to teach			обучает
+18	3a 4	간샤듸	P	kan-sya-ho	n=tuy	CONCESSIVE	evil			
+19	3a 4									
+20	3a 4	드리디	P	tu-li	ti	NEG	to follow			
+21	3a 5	아니며	P	a-ni-ho	mye	COORD				
+22	3a 5	소	N	swo-lo	i=lol	NOM+ACC	voice			
+23	3a 5	부드러이	P	pwu-tu-le	i	ADV	softly			
+24	3a 5	야	P	ho	ya=pse	CV+CV				
+25	3a 5									
+26	3a 6	간야	P	kan-ho	ya	CV	to admonish	наставлять, предостерегать		
+27	3a 6	여곰	ADV	hoi-ye-kum		NOMZ	letting, forcing, causing		하여금	"Marks the object of a causative construction. Used when someone forces, encourages, makes, or lets another person do something else. 감독은 선수들로 하여금 동계 훈련에 참여하도록 지시했다.
+The coach ordered the players to participate in winter training."
+28	3a 6	향과	N	hyang	kwa	COMIT	12500 houses			향만이쳔오가과
+29	3a 6	당과	N	tang	kwa	COMIT	500 houses			당오가과
+30	3a 7	쥬이쳔과	N	cyu-i-chyen	kwa	COMIT	2500 houses			쥬이쳔오가과
+31	3a 7	려에	N	lye	ey	LOC	500 houses			이십오가
+32	3a 7	죄를	N	cwo	lul	ACC	crime			
+33	3a 7	엇디	P	es	ti	NEG	to gain	приобретать		
+34	3a 7	아니케	ADV	a-ni-khey					아니하게	
+35	3a 8	니	P	ho	no=ni	PROCESSIVE+PARA	to say			
+36	3a 8	진실로	N	cin-sil	lwo	INSTR	truth			
+37	3a 8	혹	ADV	hwok			maybe, by any chance			
+38	3a 8	아비오	N	a-pi	wo	INTER	father			
+39	3a 8	그	DET	ku		DET	this			
+40	3a 8	식을	N	ca-sik	ul	ACC	child			
+41	3a 9	식으로	N	ca-sik	u=lwo	INST	child			
+42	3a 9	아니며	P	a-ni-ho	mye	COORD				
+43	3a 9	식이오	N	co-sik	i=wo	NOM+INTER	child			
+44	3a 9	그	DET	ku		DET	this			
+45	3a 9	아비	N	a-pi	lol	ACC	father			
+46	3a 10	아비로	N	a-pi	lwo	INST	father			
+47	3a 10	아니면	P	a-ni-ho	myen	COND				
+48	3a 10	그	DET	ku		DET	this			
+49	3a 10	엇디	P	es	ti=pse	NEG+INST			어떵게	
+50	3a 10									
+51	3a 10	셰샹에	N	syey-syang	ey	LOC	world			
+52	3a 10	셔리오	P	sye-li	wo	INTER	to hold one's own			
+53	3a 10	비록	ADV	pi-lwok			although			
+54	3a 10	그러나	P	ku-lo-ho	na	CONCESSIVE			그렇다	
+55	3a 10	텬하애	N	thyen-ha	yay	LOC	heaven			hier. (天下)
+56	3a 10	올티	P	wol-ho	ti	NEG	to be correct			
+57	3a 10	아닌		a-ni	n?					
+58	3a 10	부뫼업슨디라	P	pu-mwo	i-ep-sun-ti-la	NOM+LYRDEC	parent			
+59	3a 10	아비	N	a-pi			father			
+60	3a 10	비록	ADV	pi-lwok			although			
+61	3a 10	랑아니나	P	so-lang-a-ni-ho	na	CONCESSIVE	to love			
+62	3a 11	식이	N	ca-sik	i	NOM	child			
+63	3a 11	가히	ADV	ka	hi=pse	INST	possibly			
+64	3a 11									
+65	3a 11	효도	N	hyo-two			serving parents with devotion			
+66	3a 11	아니티	P	a-ni-h	ti	NEG				
+67	3a 11	못니	P	mwos-ho	l=sti=ni	SHOULD	not			
+68	3a 12	녜	ADJ	nyey			old			
+69	3a 12	대슌이	N	tay-syun	i	NOM	great Shun			
+70	3a 12	아비	N	a-pi			father			+완덕과의효측아닛것
+71	3a 12	고	P	ho	kwo	COORD				
+72	3a 12									
+73	3b 1	어미	N	e-mi			mother			
+74	3b 1	은야	P	un-ho	ya	CV	ruthless, ignorant			츙셩되고신실말이니것
+75	3b 1	일	ADV	il-scuk			early			
+76	3b 1	슌을	N	syun	ul	ACC	Shun			
+77	3b 2	주기고져	P	cwu-ki	kwo=cye		to die		려고하다 (другой вид, не точный аналог)	аналитическая конструкция 고져 하다
+78	3b 2	거	P	ho	ke=nol	CAUS				
+79	3b 2	슌이	N	syun	i	NOM	Shun			
+80	3b 2	능히	ADV	nung	hi		easily			
+81	3b 2	효도로	P	hyo-two??	lo=pse	INSTR	serving parents with devotion			
+82	3b 3	화케	N	hwa-ho	key	CAUS				
+83	3b 3	샤	P	ho	sya	HONSub+CV				
+84	3b 3	졈졈	ADV	cyem-cyem			slowly, gradually, little by little			
+85	3b 3	다라	P	ta-so	la	DECL				
+86	3b 3	간사듸	P	kan-sa-ho	n=tuy	PInd+CONCESSIVE	cunning, slyness	бесчестный		PInd+BN
+87	3b 3									
+88	3b 3	니르디	P	ni-lu	ti	NEG	to achieve			
+89	3b 3	아니케	N	a-ni-h	key	CAUS				
+90	3b 4	시니	P	ho	si=ni	PRO+PARA	to do			
+91	3b 4	효의	N	hyo-co	uy		filial piety			
+92	3b 4	되	N	two	i	NOM	way			
+93	3b 4	이예	ADV	i	yey	LOC	there			
+94	3b 4	지극도다	P	ci-kuk-ho	two=ta	EMOT+DECL	to love parents			
+95	3b 5	공	N	kwong-co	i	NOM	Confucius			
+96	3b 5	샤	P	koth	sya=toi	HONSub+QUOT	to say			
+97	3b 5									
+98	3b 5	다가지	N	ta-sos-ka-ci			five moral relations			
+99	3b 5	형벌의	N	hyeng-pel	uy	GEN	punishment			"墨믁즈것刖월발것劓의코버히
+것剕비무릅이것宮불억이것이오大대壁벽죽이것"
+100	3b 5		N	lyu	i	NOM	class(style)?			
+101	3b 5	삼쳔이로	P	sam-chyen	i=lwo=toi	COP+EMOT+CONCESSIVE	three thousand			
+102	3b 5	죄	N	cwo	i	NOM	sin			
+103	3b 5	불효에셔	N	pul-hyo	ey=sye	ABL	lack of filial piety			
+104	3b 5	큰	P	khu	n	PInd	big			
+105	3b 5	이	DET	i			this			
+106	3b 5	업다	P	ep	ta	Pind	to be not		없다	
+107	3b 5	시니라	P	ho	si=ni=la	HON+IND+DECK	to speak			косвенная речь

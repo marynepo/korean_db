@@ -1,0 +1,158 @@
+ID,ADDRESS,KOR,ROOT,TAIL,GLOSS,TRANS,ContKOR,RUS,WClass,COMMENT
+1,8b 1,얼운과,el-wun,kwa,COMI,senior,어른,,N,
+2,8b 1,어린이,e-lin-i,non,PInd+BN+TOP,junior,,,N,
+3,8b 1,텬륜의,thyen-lywun,uy,GEN,the will of Heaven,,,N,天倫 (heaven + order)
+4,8b 1,례라,cho-lyey,la,DECL,order?,차례,,N,次例 (order)
+5,8b 1,형이,hyeng-i,pse,CV,elder (brother) + ?,,,N+COP+P?,разбить!
+6,8b 2,형이되,hyeng-i-twoy-non,non,TOP,become,,,N+COP+P?,разбить!
+7,8b 2,바,pa,,,way,,,BN,?
+8,8b 2,와,wa,,COMI?,,,,P,
+9,8b 2,아이,ai,pse,?,child,,,?,
+10,8b 2,아이,ai,,,child,,,N,
+11,8b 2,되,twoy,non,TOP,become,,,P,
+12,8b 2,배,pay,,,?,,,N?,
+13,8b 3,얼운과,el-wun,kwa,COMI,senior,,,N,
+14,8b 3,어린의,e-lin,ey,PInd+GEN,junior,,,N,
+15,8b 3,되,two,y,NOM,path,,,N,???
+16,8b 3,브터,puthe,,,since,부터,,PTCL,???
+17,8b 3,나,na,non,PInd,be born,,,P?,
+18,8b 3,배라,pa-y,la,DECL,fact,바이,,BN+COP,
+19,8b 3,대개,tay-kay,,,generally,,,ADV,
+20,8b 4,종족과,cwong-cwok,kwa,COMI,"tribe, clan",,,N,
+21,8b 4,향당애,hyang-tang,ay,LOC,"
+a village community",,,N,
+22,8b 4,다,ta,,,all,,,PTCL?,
+23,8b 4,얼운과,elgwun,kwa,COMI,senior,,,N,
+24,8b 4,어린이,e-lin-i,,,junior,,,N,
+25,8b 5,이시니,i-shi,ni,PARA,to exist,,,P,
+26,8b 5,가히,ka-ho,i,ADV,"f(ully, easily)",,,P,可 (possibly)
+27,8b 5,어즐어히,e-cuyl-e-hi,,,????,,,ADV,B: 紊 [문티]
+28,8b 5,못,mos,,,cannot,,,P,
+29,8b 5,디라,ho,l-ti-la,SHOULD,to do,,,P,
+30,8b 5,날호야,nal-hwo-ya,,,slowly,,,ADV,
+31,8b 6,가,ka,,,go,,,P,
+32,8b 6,얼운의게,el-wun,uy-key,DAT,senior,,,N,
+33,8b 6,후에,hwu,ey,LOC,after,,,PTCL,
+34,8b 6,홈을,ho,wo=m=ul,VOL+NMLZ+ACC,do,,,P,
+35,8b 6,닐오,nil,wo-toy,CONC,say,,,P,the narration verb?
+36,8b 6,공슌,kwong-swyun,thi,NEG,,,,?,
+37,9a 1,타고,tha-ha,go,COOR,?,,,?,타니
+38,9a 1,니,spolu,ni,??,quick,빨리,,ADV,
+39,9a 1,가,ka,,,go,,,P,
+40,9a 1,얼운의게,el-wun,uy-key,DAT,senior,,,N,
+41,9a 1,몬져,mwon-cye,,,first,,,PTCL,
+42,9a 1,홈을,hwom,ul,ACC,?,,,N?,
+43,9a 1,닐오,nil,wo-toy,CONC,reach,,,P,
+44,9a 2,공슌티,kwong-swyun,thi,NEG?,,,,,
+45,9a 2,아니,ani,,NEGPrep,"""no""",,,,
+46,9a 2,타니,tha-ho,ni,IND,,,,P,
+47,9a 2,이런,ileh,n,PInd,such,,,P,
+48,9a a,고로,kwo,lwo,INST,reason,,,N,
+49,9a 2,나히,na-hi,,,age,나이,,N,
+50,9a 3,라미,co-la,m-i,NMLZ+NOM,grow up,,,N,
+51,9a 3,,pse,,СV,,,,P,
+52,9a 3,거든,poy-ho,ke-tun,COND,double,,,P,
+53,9a 3,아비톄로,api,thyey-lwo,?,father,처럼,,N,like a father
+54,9a 3,셤기고,syem-ki,kwo,COOR,take care of,섬기다,,P,
+55,9a 4,열,yel,,,ten,,,NUM,
+56,9a 4,로,hoy,lwo-pse,INST,year,,,N,
+57,9a 4,라거든,co-la,ke-tun,COND,grow up,,,P,
+58,9a 4,형톄로,hyeng,thyey-lwo,,older brother,,,N,
+59,9a 4,셤기고,syem-ki,kwo,COOR,take care of,,,P,
+60,9a 5,다,tasos,,,five,,,NUM,
+61,9a 5,로,hoy,lwo-pse,INSTR,year,,,N,
+62,9a 5,라거든,co-la,ke-tun,COND,grow up,,,P,
+63,9a 5,엇게로,es-key,lwo,INSTR,shoulder?,어깨,,N,
+64,9a 5,조츨디니,cwo-ch,ul-ti-ni,SHOULD,follow,,,P,
+65,9a 6,얼운이,el-wun,i,NOM,senior,,,N,
+66,9a 6,어린이를,e-lin-i,lul,ACC,junior,,,N,
+67,9a 6,랑며,so-lang-ho,mye,COOR,love,,,P,
+68,9a 6 ,어린이,e-lin-i,,,junior,,,N,
+69,9a 7,얼운을,el-wun,ul,ACC,senior,,,N,
+70,9a 7,공경,kwong-kyeng-ho,n,PInd,respect,,,P,
+71,9a 7,연후에,yen-hwu,ey,LOC,afterwards,,,ADV,
+72,9a 7 ,사졈은,,un,TOP,,,,N?,
+73,9a 7,이를,i,lul,ACC,person,,,N,
+74,9a 7,업슈이,,,,,,,,слитно
+75,9a 8,녀기며,ep-sywu-i-nye-ki,mye,COOR,despise,업신여기다,,P,слитно
+76,9a 8 ,얼운을,el-wun,ul,ACC,senior,,,N,
+77,9a 8 ,릉멸,lung-myel-ho,nun,PInd,look down on,,,P,
+78,9a 8,폐,phyey,,,弊,,,N,"1) fraud; abuse; malpractice 
+2) disadvantage; harm"
+79,9a 8,업서,ep-se,,CV,not to exist,없어,,P,
+80,9a 9,사의,sa-lom,uy,GEN,person,,,N,
+81,9a 9,되,two,y,NOM,path,,,P,
+82,9a 9,바로리라,paru,wo=i=la,INTN,,,,P,VOL+PROB
+83,9a 9,믈며,ho,m=ul=mye?,NMLZ+ACC+COOR?,still more?,하물며,,P,
+84,9a 9,형과,hyeng,kwa,COMI,older brother,,,N,
+85,9a 9,아,a-o,nun,PInd,small,작은,,P,
+86,9a 10,긔운이,kuy-wun,i,NOM,strength,,,N,
+87,9a 10,,hon,,,one,,,NUM,
+88,9a 10,가진,ka-chi,n,PInd,have,,,P,
+89,9a 10,사이라,sa-lom-i,la,DECL,person,,,N+COP,
+90,9a 10,골육의,kwol-ywuk,uy,GEN,bone and flesh,,,N,
+91,9a 10,지극,ci-kuk-ho,n,PInd,faithful/extreme,,,P,
+92,9a 11,친이니,chin-i,ni,PARA,"relatives, parents; intimate",,,N+COP,親
+93,9a 11,더욱,te-wuk,,,much more,,,ADV,
+94,9a 11,맛당이,mas-tang,i,NOM,"suitable, right",마땅함,,N,
+95,9a 11,우,wu-oy-ho,l,,?,,,P,
+96,9a 11,거시오,kes,i-wo,?+COOR,,,,BN,
+97,9a 12,가히,ka-hi,,,"fully, easily",,,ADV,
+98,9a 12,노홈을,nwo-ho,wo-m-ul,VOL+NMLZ+ACC,anger?,,,N,怒 (노) anger
+99,9a 12,초며,kom-chwo,mye,COOR,keep,간직하다,,P,"retain, store; 藏"
+100,9a 12,원망을,wen-mang,ul,ACC,resentment,,,P,怨
+101,9a 12,재어,chay,e,CV,take,,,P,
+102,9a 12,,pse,,,,,,P,
+103,9a 13,하의,ha-nol,uy,GEN,heaven,,,N,
+104,9a 13,덧덧,tes-tes-h,n,PInd,eternal,,,P,
+105,9a 13,거슬,kes,ul,ACC,,,,BN,
+106,9a 13,패티,phay,thi,NEG?,fail,,,P,敗
+107,9a 13,못,mos,,,cannot,,,P,
+108,9a 13,,ho,l,PProb,do,,,P,
+109,9a 13,시니라,skes-i,ni-la,IND+DECL,,,,BN+COP?,
+110,9a 14,녜,,,,,,,,
+111,9a 14,마광이,so-ma-kwang,i,NOM,Sima Guang,,,N,司馬光
+112,9a 14,그,ku,,,that,,,DET,
+113,9a 14,형강으로,hyeng-poyk-kang,ulwo,INSTR,,,,N,兄伯 (старший брат мужа) + 康 (здоровье)
+114,9a 14,더브러,te-pul,e,CV,do together,더불어,,N,
+115,9a 15,우홈을,wu-oy-ho,wo=m=ul,VOL+NMLZ+ACC,,,,N,
+116,9a 15,더욱,te-wuk,,,much more,,,ADV,
+117,9a 15,도타이,two-tha-i?,,,"closely, reliably?",,,?,돋가이?
+118,9a 15,야,ho,ya,CV,do,,,P,
+119,9a 15,공경믈,kwong-kyeng-ho,m=ul,NMLZ+ACC,respect,,,P,
+120,9a 16,엄,em-ho,n,PInd,"strict, rigorous",,,P,嚴
+121,9a 16,아비,a-pi,,,father,,,N,
+122,9a 16,티,?,,,together,같이,,,
+123,9a 16,고,ho,kwo,COOR,do,,,P,
+124,9a 16,보믈,pwo-ho,m=ul,NMLZ+ACC,see,,,P,
+125,9a 16,어린,e-lin,,,junior,,,P,
+126,9a 16,,,,,child?,,,,
+127,9a 17,티,,,,together,같이,,,
+128,9a 17,니,ho,ni,PARA,do,,,do,
+129,9a 17,형과,hyeng,kwa,COMI,older brother,,,N,
+130,9a 17,아의,a-o,uy,GEN,small?,작은,,N,
+131,9a 17,되,two,y,NOM,path,,,N,
+132,9a 17,맛당이,mas-tang,i,NOM,"suitable, right",,,N,
+133,9a 17,이러,i-le-thus,,,like this,이렇게,,ADV,
+134,9a 18,디니라,thos-ho,l=ti=ni=la,CONS,,,,P,передвинуть th наверх
+135,9a 18,,moyng-coy,,,Mencius,,,N+COP,孟子
+136,9a 18,샤,kot,osya=wotoy,HONSub+QOUT,to say,,,P,
+137,9a 18,뎨의,hoy-tyey,uy,GEN,brother,,,N,孩提 (infant?)
+138,9a 19,,o-hoy,,?,child,,,N,
+139,9a 19,그,ku,,,that,,,DET,
+140,9a 19,어버이,e-pe-i,,,"one's parents",,,N,
+141,9a 19,랑홈을,so-lang-ho,wo=m=ul,VOL+NMLZ+ACC,love,,,P,
+142,9a 20,아디,a,ti,NEG,,,,P,
+143,9a 20,못이,mwos-ho,l=i,,,,,,
+144,9a 20,업스며,ep-su,mye,COOR,not to exist,,,P,
+145,9a 20,그,ku,,,that,,,DET,
+146,9a 20,라매,co-la,m=ay?,NMLZ+LOC?,grow up,,,P,
+147,9a 20,미처,mi-che,non,TOP,as far as?,,,,
+148,9b 1,그,ku,,,that,,,DET,
+149,9b 1,형,hyeng,,,brother,,,N,
+150,9b 1,공경홈을,kwong-kyeng-ho,wo-m-ul,VOL+NMLZ+ACC,respect,,,P,
+151,9b 1,아디,a,ti,NEG,know,,,P,
+152,9b 1,못,mos,,,cannot,,,,
+153,9b 1,이,ho,l=i,,do,,,P,
+154,9b 2,업스니라,ep-su,ni=la,IND+DECL,not to exist,,,P,
+155,9b 2,시니라,ho-shi,ni=la,IND+DECL,do,,,P,
